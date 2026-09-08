@@ -1,0 +1,7 @@
+"physician_id","physician","specialization","hospital","referrals"
+"PH01","Marc Spector","Cardiology","Mass General Brigham Hospital","4"
+"PH03","Diana Prince","Internal Medicine","Tufts Medical Center","3"
+"PH04","Olivia Brown","Pulmonology","Beth Israel Hospital","2"
+"PH06","Ava Garcia","Nephrology","Beth Israel Hospital","0"
+"PH05","William Jones","Urology","Mass General Brigham Hospital","0"
+"PH02","Emma Johnson","Cardiology","Tufts Medical Center","0"

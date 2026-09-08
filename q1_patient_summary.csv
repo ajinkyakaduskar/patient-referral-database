@@ -1,0 +1,7 @@
+patient_id,first_name,middle_name,last_name,gender,date_of_birth,allergies,disease_history,total_visits
+PT01,John,Francis,Diggle,Male,1990-01-15,Dairy Allergy,Obesity,2
+PT02,Laurel,Quinton,Lance,Female,1985-03-22,,Skin Infections,2
+PT03,Oliver,Robert,Queen,Male,1978-07-30,Dust,Bronchitis,2
+PT04,Sara,Quinton,Lance,Female,1992-12-11,Citrus Fruits,Coronary artery disease,1
+PT05,Slade,Albert,Wilson,Male,2000-09-09,,GERD,1
+PT06,Jerry,Andrew,Constantine,Male,2001-09-09,"",UTI,1

@@ -1,0 +1,2 @@
+patient_id,first_name,last_name,systolic,diastolic,temperature,disease_history,allergies
+PT04,Sara,Lance,145,100,37.50,Coronary artery disease,Citrus Fruits
