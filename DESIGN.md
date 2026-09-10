@@ -27,9 +27,11 @@ as a name and a one-line reason. Medication history, past diagnoses, family and 
 recent vitals — all left behind in the sending clinic's system. A 2011 national survey of 4,720
 physicians found a 34-point perception gap: **69% of primary-care physicians said they always or
 mostly sent patient history with a referral, while fewer than 35% of specialists said they always
-or mostly received it.** A more recent 2022 survey found 78% of PCPs reporting they send clinical
-information at referral, so the picture has improved — but the gap between sent and received is
-the durable finding.
+or mostly received it.** A later study — 2019 data from 4,754 primary-care physicians in the
+Comprehensive Primary Care Plus program, published in 2022 — found 78% saying they always or most
+of the time sent clinical information at referral. That study surveyed primary-care physicians
+only; no specialists were asked, so it measures the sending side reporting on itself and cannot
+show whether the gap has closed. Only the 2011 study measured both ends.
 
 > Layman: Problem A is "the referral got lost in the mail." Problem B is "the referral arrived,
 > but the envelope was empty."
