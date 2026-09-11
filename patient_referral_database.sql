@@ -47,7 +47,7 @@ CREATE TABLE physician_main (
     physician_id    VARCHAR(10) PRIMARY KEY,
     first_name      VARCHAR(45),
     last_name       VARCHAR(45),
-    npi             INT,
+    npi             VARCHAR(10),
     specialization  VARCHAR(45),
     hospital        VARCHAR(200)
 );
